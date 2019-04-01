@@ -3,9 +3,7 @@
     <Toolbar app />
 
     <v-content>
-      <v-container fluid fill-height>
-        <router-view />
-      </v-container>
+      <router-view />
     </v-content>
 
     <Footer app />
@@ -22,8 +20,12 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .container {
-  background: darkgray;
+  background-image: url("https://www.bulkogikrnbbq.com/wp-content/uploads/2017/02/background_truck-1.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 </style>

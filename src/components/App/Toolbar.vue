@@ -36,9 +36,10 @@
       class="hidden-sm-and-down"
       active-class="not-active"
       to="/where"
-      color="primary"
+      color="error"
       round
-      >Where?</v-btn
+      small
+      >Where</v-btn
     >
   </v-toolbar>
 </template>
