@@ -3,7 +3,9 @@
     <v-layout row wrap justify-space-around>
       <v-flex xs12 md5>
         <v-layout column pa-4 my-1 class="about">
-          <h3 class="display-2 red--text mb-3 text-xs-center">Our Story</h3>
+          <h3 class="display-2 red--text mb-3 text-xs-center text-uppercase">
+            Our Story
+          </h3>
           <p class="subheading">
             Bulkogi Truck was founded in 2009 by the So Family (Owners Jin So &
             Jenny So, Manager Christine So) with the vision of bringing Korean
@@ -37,7 +39,9 @@
       </v-flex>
       <v-flex xs12 md5>
         <v-layout column pa-4 my-1 class="about">
-          <h3 class="display-2 red--text mb-3 text-xs-center">Our Food</h3>
+          <h3 class="display-2 red--text mb-3 text-xs-center text-uppercase">
+            Our Food
+          </h3>
           <p class="subheading">
             Bulkogi, literally translated “Fire meat”, refers to grilled soy
             sauce based marinated meat and is a national dish of Korea. Our
