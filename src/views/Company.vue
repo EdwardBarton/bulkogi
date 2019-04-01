@@ -1,8 +1,8 @@
 <template>
   <v-container fluid grid-list-md fill-height>
     <v-layout row wrap justify-space-around>
-      <v-flex xs12 md5>
-        <v-layout column pa-4 my-1 class="about">
+      <v-flex xs12 md6>
+        <v-layout column pa-4 ma-1 class="about">
           <h3 class="display-2 red--text mb-3 text-xs-center text-uppercase">
             Our Story
           </h3>
@@ -37,8 +37,8 @@
           </p>
         </v-layout>
       </v-flex>
-      <v-flex xs12 md5>
-        <v-layout column pa-4 my-1 class="about">
+      <v-flex xs12 md6>
+        <v-layout column pa-4 ma-1 class="about">
           <h3 class="display-2 red--text mb-3 text-xs-center text-uppercase">
             Our Food
           </h3>

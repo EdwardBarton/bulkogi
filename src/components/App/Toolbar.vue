@@ -20,11 +20,11 @@
         </template>
 
         <v-list dark>
-          <v-list-tile to="/company">
-            <v-list-tile-title>Company</v-list-tile-title>
-          </v-list-tile>
           <v-list-tile to="/contact">
             <v-list-tile-title>Contact</v-list-tile-title>
+          </v-list-tile>
+          <v-list-tile to="/company">
+            <v-list-tile-title>Company</v-list-tile-title>
           </v-list-tile>
           <v-list-tile to="/press">
             <v-list-tile-title>Press</v-list-tile-title>
