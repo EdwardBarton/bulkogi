@@ -4,8 +4,8 @@
       app
       :clipped="false"
       v-model="drawer"
-      enable-resize-watcher
       dark
+      disable-resize-watcher
     >
       <v-list>
         <v-list-tile

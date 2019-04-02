@@ -8,7 +8,7 @@
             color="primary"
             href="http://www.bulkogikrnbbq.com/wp-content/uploads/2017/02/BulkogiMenu.pdf"
             target="_blank"
-            >Download Our Menu</v-btn
+            >Download Menu</v-btn
           >
         </v-layout>
       </v-flex>
