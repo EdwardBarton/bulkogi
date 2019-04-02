@@ -20,7 +20,7 @@
         </v-layout>
       </v-flex>
       <v-flex xs12 md10>
-        <v-layout column pa-4 ma-1 class="menu-step">
+        <v-layout column pa-4 ma-1 class="catering">
           <!-- A LA CARTE SECTION -->
           <h4 class="display-1 red--text text-uppercase">
             A La Carte Menu
@@ -190,7 +190,7 @@ export default {};
 </script>
 
 <style scoped>
-.menu-step {
+.catering {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 10px;
 }
