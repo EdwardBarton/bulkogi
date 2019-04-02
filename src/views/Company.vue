@@ -76,6 +76,6 @@ export default {};
 <style scoped>
 .about {
   background: rgba(255, 255, 255, 0.9);
-  border-radius: 3%;
+  border-radius: 10px;
 }
 </style>

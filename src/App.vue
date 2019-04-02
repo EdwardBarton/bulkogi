@@ -1,12 +1,12 @@
 <template>
   <v-app>
-    <Toolbar app />
+    <Toolbar />
 
     <v-content>
       <router-view />
     </v-content>
 
-    <Footer app />
+    <Footer />
   </v-app>
 </template>
 

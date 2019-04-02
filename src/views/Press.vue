@@ -39,6 +39,6 @@ export default {};
 <style scoped>
 .press {
   background: rgba(255, 255, 255, 0.9);
-  border-radius: 3%;
+  border-radius: 10px;
 }
 </style>
